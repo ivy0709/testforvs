@@ -16,7 +16,7 @@ int main()
 {
 	int a = 1;
 	int& b = a;
-	fun1(b);
-	fun1(a);
+	//fun1(b);
+	//fun1(a);
 	return 0;
 }
